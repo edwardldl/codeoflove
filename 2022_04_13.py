@@ -7,6 +7,6 @@ def find_lucky_one(candidates):
         print("Move on!")
         break
       if c.fall_in_love("me"):
-        print("Found the lucky on! {}".format(c.name))
+        print("Found the lucky one! {}".format(c.name))
         return c
   return None
