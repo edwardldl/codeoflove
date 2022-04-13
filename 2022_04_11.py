@@ -1,4 +1,3 @@
-from itertools import count
 import random
 INT_MAX = 2147483647
 # assume date success rate is 50%
